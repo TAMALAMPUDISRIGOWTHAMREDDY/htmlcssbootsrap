@@ -1,0 +1,62 @@
+.top{
+    background-image: url(./images/background.jpg);
+    background-size: 180% 180%;
+    padding-top: 100px;
+}
+h1{
+    color: brown;
+    font-family:serif;
+
+    
+}
+.main{
+    font-size:50px;
+}
+.lead.title{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: brown;
+}  
+.pro{
+    text-decoration: underline;
+}
+.profile{
+    border-radius: 100%;
+}
+.display-5{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:chocolate;
+    font-size: 60px;
+}
+.skilllsheading{
+    font-size:100px;
+    margin-right:100px;
+    
+}
+hr{
+    border:dotted;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+    
+}
+h2{
+    color: brown;
+}
+.btn{
+    background-color:chocolate;
+}
+.footer{
+    background-color:chocolate;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.gowtham{
+    color: azure;
+}
+
+
+  
+    
+
+    
+    
